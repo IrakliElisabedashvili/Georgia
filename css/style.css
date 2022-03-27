@@ -1,0 +1,153 @@
+/* Navigation Start */
+#navigation{
+    margin-bottom: 0;
+}
+
+
+.homeimage{
+    width: 60px;
+    margin-top: -5px;
+}
+
+.textcolors{
+    color: black;
+}
+/* Navigation End */
+
+
+/* Content Start */
+#titletext{
+    margin-top: 0;
+}
+
+.politicalmap{
+    margin-top: 10px;
+    transition: .3s ease-in;
+}
+
+.politicalmap:hover{
+    box-shadow: 0 0 5px 2px rgb(133, 133, 133);
+    cursor: pointer;
+}
+
+#firstdiv{
+    margin-bottom: 20px;
+}
+
+.country{
+    padding-bottom: 10px;
+}
+
+.georgiaflag{
+    transition: ease-in all .8s;
+}
+
+.georgiaflag:hover{
+    transform: scale(90%);
+    border-radius: 50%;
+    border: 2px solid red;
+    cursor: pointer;
+    /* margin-bottom: -15px; */
+}
+
+.georgiacoatofarms{
+    transition: ease-in all .8s;
+}
+
+.georgiacoatofarms:hover{
+    transform: scale(90%);
+    border-radius: 50%;
+    border: 2px solid red;
+    cursor: pointer;
+    /* margin-bottom: -5px; */
+}
+/* Content End */
+
+/* Footer Start */
+.footer{
+    background-color: lightgrey;
+    margin-top: 20px;
+    height: 50px;
+}
+
+.copyright{
+    line-height: 3rem;
+}
+/* Footer End */
+
+/* ***** Home Page End ***** */
+
+
+/* ***** Geography Page Start ***** */
+
+/* Content Start */
+
+.physicalmap{
+    transition: .3s ease-in;
+}
+
+.physicalmap:hover{
+    box-shadow: 0 0 5px 2px rgb(133, 133, 133);
+    cursor: pointer;
+}
+
+#geographyfirstdiv{
+    margin-bottom: 0;
+}
+
+.geoshepherd{
+    width: 75%;
+    transition: .3s ease-in;
+}
+
+.geoshepherd:hover{
+    box-shadow: 0 0 5px 2px rgb(133, 133, 133);
+    cursor: pointer;
+}
+/* Content End */
+
+/* ***** Geography Page End ***** */
+
+
+/* ***** Culture Page Start ***** */
+.tower{
+   transition: .3s ease-in; 
+   margin-top: 30px;
+   width: 100%;
+}
+
+.tower:hover{
+    box-shadow: 0 0 4px 2px rgb(133, 133, 133);
+    cursor: pointer;
+}
+
+.culture{
+    padding-bottom: 10px;
+}
+
+.vardzia{
+    width: 100%;
+    margin-top: 30px;
+    transition: .3s ease-in; 
+}
+
+.vardzia:hover{
+    box-shadow: 0 0 4px 2px rgb(133, 133, 133);
+    cursor: pointer;
+}
+
+.cuisine{
+    margin-top: 20px;
+}
+
+.georgiancuisine{
+    width: 100%;
+    margin-top: 50px;
+    transition: .3s ease-in; 
+}
+
+.georgiancuisine:hover{
+    box-shadow: 0 0 5px 2px rgb(133, 133, 133);
+    cursor: pointer;
+}
+/* ***** Culture Page End ***** */
